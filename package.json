@@ -3,8 +3,7 @@
 	"description": "An Awesome Backend Project in JavaScript",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0",
-		"moment": "^2.10.2"
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
