@@ -4,7 +4,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "^2.14.0"
+		"moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -16,5 +16,5 @@
 	},
 	"keywords": ["api", "backend", "javascript", "freecodecamp"],
 	"license": "MIT",
-	"version": "2.10.2"
+	"version": "1.0.0"
 }
