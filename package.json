@@ -2,6 +2,7 @@
 	"author": "Zidan Aqila Muhammad",
 	"description": "An Awesome Backend Project in JavaScript",
 	"keywords": ["api", "backend", "javascript", "freecodecamp"],
+	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
